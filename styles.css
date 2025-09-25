@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 36px;
+    background-color: #f4f4f9;
+    color: #333;
+
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #4b6cb7;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffd700;
+}
+
+/* Main Sections */
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 15px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #4b6cb7;
+    border-bottom: 2px solid #4b6cb7;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+/* Skills */
+#skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#skills ul li {
+    background-color: #4b6cb7;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    list-style: none;
+}
+
+/* Projects */
+#projects article {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+
+#projects article:hover {
+    transform: translateY(-5px);
+}
+
+.image{
+  width: 100%;
+  max-width: 370px;
+  height:250px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 10px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+#projects a {
+    color: #4b6cb7;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#projects a:hover {
+    text-decoration: underline;
+}
+
+/* Contact */
+#contact ul {
+    list-style: none;
+}
+
+#contact ul li {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    width:100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    margin-top: 40px;
+}
+
