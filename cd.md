@@ -47,3 +47,13 @@ This project is a full-stack e-commerce template built with React, Node.js, and 
 
 ## English Level
 (B2 level)
+
+
+## Code Examples
+Here’s a sample JavaScript function from a small project:
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+console.log(greet("World"));
