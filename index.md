@@ -44,7 +44,7 @@ A full-stack e-commerce template built with React, Node.js, Express.js, and Mong
 - Email: [suzarm8883@gmail.com](mailto:suzarm8883@gmail.com)
 - GitHub: [https://github.com/suzarm](https://github.com/suzarm)
 - LinkedIn: [Suzanna Mikayelyan](https://www.linkedin.com/in/suzanna-mikayelyan-447272282/)
-
+- Discord: Suzan8883
 ---
 
 ## Education
