@@ -1,7 +1,7 @@
 # Suzanna Mickayelyan
 
 <p align="center">
-  <img src="README.mdalt="Suzanna Mickayelyan" width="200"/>
+  <img src="../images/photo_2025-06-23_22-47-57.jpg" alt="Suzanna Mickayelyan" width="200"/>
 </p>
 
 
