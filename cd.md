@@ -4,7 +4,8 @@
 
 ---
 
-![Photo of Suzanna Mickayelyan](https://raw.githubusercontent.com/suzarm/rsschool-cv/main/images/photo_2025-06-23_22-47-57.jpg)
+![Suzanna Mickayelyan](images/photo_2025-06-23_22-47-57.jpg)
+
 
 ---
 
